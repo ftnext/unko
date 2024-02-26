@@ -1,3 +1,6 @@
 [project]
 name = "unko"
 version = "0.1"
+
+[project.scripts]
+unko = "unko.__main__:main"
